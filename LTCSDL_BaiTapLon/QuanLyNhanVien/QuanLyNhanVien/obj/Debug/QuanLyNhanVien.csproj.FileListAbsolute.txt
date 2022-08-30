@@ -1,0 +1,66 @@
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.SuggestedBindingRedirects.cache
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVien.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.DanhSachNhanVien.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.QuanLyNhanVien.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.xml
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.FThongTinCaNhan.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CopyComplete
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.QuanLyTaiKhoan.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Login.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Register.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.UserInfo.resources
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BCrypt.Net-Next.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Buffers.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BCrypt.Net-Next.xml
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Buffers.xml
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.xml
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Đại Học\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Buffers.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Buffers.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.login.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVien.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.DanhSachNhanVien.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.FThongTinCaNhan.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.QuanLyNhanVien.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForms.QuanLyTaiKhoan.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Register.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.UserInfo.resources
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CopyComplete
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+C:\Users\84339\Downloads\LTCSDL\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
